@@ -24,7 +24,7 @@ Welcome to the Rock, Paper, Scissors game! This is a Python console-based game w
     ```
 2. Navigate to the project directory:
    ```bash
-   cd rock-paper-scissor-game 
+   cd Rock-Paper-Scissor
    ```
 3. Run the game using Python
  ```bash
