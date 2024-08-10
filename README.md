@@ -28,7 +28,7 @@ Welcome to the Rock, Paper, Scissors game! This is a Python console-based game w
    ```
 3. Run the game using Python
  ```bash
-   python rock_paper_scissors.py
+   python RockPaperScissors.py
    ```
 4. Follow the on-screen instructions to start the game. You can choose to start the game by pressing 1 or exit by pressing 0.
 
