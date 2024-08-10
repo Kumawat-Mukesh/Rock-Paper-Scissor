@@ -19,5 +19,27 @@ Welcome to the Rock, Paper, Scissors game! This is a Python console-based game w
 ## How to Play
 
 1. Clone the repository to your local machine:
-   ```bash
+    ```bash
    git clone https://github.com/your-username/rock-paper-scissors-game.git
+    ```
+2. Navigate to the project directory:
+   ```bash
+   cd rock-paper-scissor-game 
+   ```
+3. Run the game using Python
+ ```bash
+   python rock_paper_scissors.py
+   ```
+4. Follow the on-screen instructions to start the game. You can choose to start the game by pressing 1 or exit by pressing 0.
+
+
+## Game Flow
+
+1. After selecting your choice, the computer will randomly select its choice.
+2. The result of each round will be displayed, along with the current score.
+3. At the end of 5 rounds, the game will display the final result, showing who won the match and the final scores.
+
+
+## Requirements
+
+. Python 3.10
