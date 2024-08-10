@@ -20,7 +20,7 @@ Welcome to the Rock, Paper, Scissors game! This is a Python console-based game w
 
 1. Clone the repository to your local machine:
     ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-game.git
+   git clone https://github.com/Kumawat-Mukesh/rock-paper-scissors-game.git
     ```
 2. Navigate to the project directory:
    ```bash
